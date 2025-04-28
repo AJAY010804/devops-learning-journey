@@ -24,12 +24,13 @@ DevOps brings together **development**, **operations**, and **automation** to de
 ---
 
 ## 🗂️ Repository Structure
-devops-learning-journey/
-├── README.md
-├── roadmap/
-│   └── devops-roadmap.pdf
-├── sdlc-for-devops/
-│   └── DevOps 2 SDLC
+devops-learning-journey:
+  - README.md
+  - roadmap:
+      - devops-roadmap.pdf
+  - sdlc-for-devops:
+      - DevOps 2 SDLC
+  
 
 
 Each folder contains notes, scripts, and sample configurations to practice what I learn.
