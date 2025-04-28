@@ -28,6 +28,8 @@ devops-learning-journey:
   - README.md
   - roadmap:
       - devops-roadmap.pdf
+  - devops-intro:
+      - DevOps 1
   - sdlc-for-devops:
       - DevOps 2 SDLC
   
