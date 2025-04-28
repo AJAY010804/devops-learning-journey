@@ -24,7 +24,12 @@ DevOps brings together **development**, **operations**, and **automation** to de
 ---
 
 ## 🗂️ Repository Structure
-
+devops-learning-journey/
+├── README.md
+├── roadmap/
+│   └── devops-roadmap.pdf
+├── sdlc-for-devops/
+│   └── DevOps 2 SDLC
 
 
 Each folder contains notes, scripts, and sample configurations to practice what I learn.
@@ -35,7 +40,8 @@ Each folder contains notes, scripts, and sample configurations to practice what 
 
 | Week | Topic                  | Notes        | Practice/Project |
 |------|------------------------|--------------|------------------|
-| 
+|  1   | SDLC for DevOps        | ✅ Completed | [View Notes](./sdlc-for-devops/) |
+|  2   | Linux OS for DevOps    | ✅ Completed |  ⏳ Coming Soon  |
 > ✅ = Completed | 🚧 = In Progress | ⏳ = Coming Soon
 
 ---
