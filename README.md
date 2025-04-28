@@ -41,8 +41,9 @@ Each folder contains notes, scripts, and sample configurations to practice what 
 
 | Week | Topic                  | Notes        | Practice/Project |
 |------|------------------------|--------------|------------------|
-|  1   | SDLC for DevOps        | ✅ Completed | [View Notes](./sdlc-for-devops/) |
-|  2   | Linux OS for DevOps    | ✅ Completed |  ⏳ Coming Soon  |
+|  1   | DevOps Intro   | ✅ Completed |  ✅ Completed | [View Notes](./devops-intro/) |
+|  2   | SDLC for DevOps        | ✅ Completed | [View Notes](./sdlc-for-devops/) |
+|  3   | Linux OS for DevOps    | ✅ Completed |  ⏳ Coming Soon  |
 > ✅ = Completed | 🚧 = In Progress | ⏳ = Coming Soon
 
 ---
